@@ -1,29 +1,264 @@
-127.0.0.1 napubgm.broker.tplay.qq.com
-127.0.0.1 nawzryhwatm.broker.tplay.qq.com
-127.0.0.1 pandora.game.qq.com
+127.0.0.1       localhost
+::1             ip6-localhost
+
+49.51.66.143 napubgm.broker.tplay.qq.com
+49.51.66.143 zw.qq.com
+49.51.66.143 gift.qq.com
+49.51.66.143 md.qq.com
+49.51.66.143 mh.qq.com
+49.51.66.143 wximg.qq.com
+49.51.66.143 ireader.qq.com
+49.51.66.143 gcapp.qq.com
+49.51.66.143 guid.qq.com
+49.51.66.143 ip.qq.com
+49.51.66.143 proxymc.qq.com
+
+49.51.66.25 nawzryhwatm.broker.tplay.qq.com
+49.51.66.25 zw.qq.com
+49.51.66.25 gift.qq.com
+49.51.66.25 md.qq.com
+49.51.66.25 mh.qq.com
+49.51.66.25 wximg.qq.com
+49.51.66.25 ireader.qq.com
+49.51.66.25 gcapp.qq.com
+49.51.66.25 guid.qq.com
+49.51.66.25 ip.qq.com
+49.51.66.25 proxymc.qq.com
+
+49.51.66.225 pandora.game.qq.com
+49.51.66.225 tu.qq.com
+49.51.66.225 ffm.qq.com
+49.51.66.225 zw.qq.com
+49.51.66.225 gift.qq.com
+49.51.66.225 md.qq.com
+49.51.66.225 mh.qq.com
+49.51.66.225 wximg.qq.com
+49.51.66.225 ireader.qq.com
+49.51.66.225 gcapp.qq.com
+49.51.66.225 guid.qq.com
+
 127.0.0.1 119.28.244.5088
 127.0.0.1 210.22.247.139
 127.0.0.1 49.51.66.225
 127.0.0.1 119.28.244.5088
 127.0.0.1 dlied1.qq.com
-127.0.0.1 dlied2.qq.com
-127.0.0.1 dlied3.qq.com
-127.0.0.1 dlied4.qq.com
-127.0.0.1 dlied5.qq.com
-127.0.0.1 dlied6.qq.com
-127.0.0.1 down.qq.com
-127.0.0.1 dlied1.tcdn.qq.com
-127.0.0.1 dlied1.tc.qq.com
-127.0.0.1 dlied2.tcdn.qq.com
-127.0.0.1 dlied2.tc.qq.com
-127.0.0.1 dlied3.tcdn.qq.com
-127.0.0.1 dlied3.tc.qq.com
-127.0.0.1 dlied4.tcdn.qq.com
-127.0.0.1 dlied4.tc.qq.com
-127.0.0.1 dlied5.tcdn.qq.com
-127.0.0.1 dlied5.tc.qq.com
-127.0.0.1 dlied6.tcdn.qq.com
-127.0.0.1 dlied6.tc.qq.com
+203.205.138.82 huayang.qq.com
+203.205.138.82 appsupport.qq.com
+203.205.138.82 tu.qq.com
+203.205.138.82 ffm.qq.com
+203.205.138.82 zw.qq.com
+203.205.138.82 gift.qq.com
+203.205.138.82 md.qq.com
+203.205.138.82 mh.qq.com
+203.205.138.82 wximg.qq.com
+203.205.138.82 ireader.qq.com
+
+61.240.150.11 dlied2.qq.com
+61.240.150.11 dlied2.tc.qq.com
+61.240.150.11 dlied2.tcdn.qq.com
+61.240.150.11 dlied2.qq.com
+61.240.150.11 xdayux.ddos.tc.cdntip.com
+61.240.150.11 mwvip.com
+61.240.150.11 app1000106.ddos.tc.cdntip.com
+61.240.150.11 ddos.tcdn.qq.com
+61.240.150.11 zj100.cn
+61.240.150.11 app1000787.safe.cdntip.com
+61.240.150.11 www.vmall.com.ddos.tc.cdntip.com
+
+0.0.0.1 dlied3.qq.com
+0.0.0.1 b.qq.com
+0.0.0.1 huayang.qq.com
+0.0.0.1 appsupport.qq.com
+0.0.0.1 tu.qq.com
+0.0.0.1 ffm.qq.com
+0.0.0.1 zw.qq.com
+0.0.0.1 gift.qq.com
+0.0.0.1 md.qq.com
+0.0.0.1 mh.qq.com
+0.0.0.1 wximg.qq.com
+0.0.0.1 v.myapp.com
+0.0.0.1 tcpmconn1.tencent.com
+0.0.0.1 lzy.mna.myqcloud.com
+0.0.0.1 fl.cdn.qq.com
+0.0.0.1 bkav.video.qq.com
+0.0.0.1 q16.3g.qq.com
+0.0.0.1 gift.qq.com
+0.0.0.1 md.qq.com
+0.0.0.1 mh.shuru.qq.com
+0.0.0.1 ans.qcloud.com
+
+0.0.0.1 dlied4.qq.com
+0.0.0.1 ops.qq.com
+0.0.0.1 pvz.qq.com
+0.0.0.1 wind.qq.com
+0.0.0.1 msgbox.imtt.qq.com
+0.0.0.1 smtpbg270.qq.com
+0.0.0.1 dragon.qq.com
+0.0.0.1 smtpbg461.qq.com
+0.0.0.1 bbs.huitu.map.qq.com
+0.0.0.1 bbs1.qq.com
+0.0.0.1 list.qq.com
+0.0.0.1 sportsapp.qq.com
+0.0.0.1 pay.qq.com
+0.0.0.1 omgmta.qq.com
+0.0.0.1 task.qq.com
+0.0.0.1 tiantang2.qq.com
+0.0.0.1 analy.qq.com
+0.0.0.1 masterconn.qq.com
+0.0.0.1 fusionbase.qq.com
+0.0.0.1 privacy.qq.com
+0.0.0.1 pim.qq.com
+
+
+203.205.138.86 dlied5.qq.com
+203.205.138.86 sportsapp.qq.com
+203.205.138.86 pay.qq.com
+203.205.138.86 omgmta.qq.com
+203.205.138.86 task.qq.com
+203.205.138.86 tiantang2.qq.com
+203.205.138.86 analy.qq.com
+203.205.138.86 masterconn.qq.com
+203.205.138.86 fusionbase.qq.com
+203.205.138.86 privacy.qq.com
+203.205.138.86 pim.qq.com
+203.205.138.86 dldir3.qq.com
+203.205.138.86 dlied5.qq.com
+203.205.138.86 dldir1.akm.qq.com
+203.205.138.86 download.qidian.com
+203.205.138.86 d.url.cn
+203.205.138.86 legao.tcdn.qq.com
+203.205.138.86 dldir1.qq.com
+203.205.138.86 dl_dir.qq.com
+203.205.138.86 adrdir.qq.com
+203.205.138.86 dl.url.cn
+
+116.177.248.37 dlied6.qq.com
+116.177.248.37 qd.myapp.com
+116.177.248.37 softimtt.myapp.com
+116.177.248.37 offline.gtimg.cn
+116.177.248.37 soft.tbs.imtt.tc.qq.com
+116.177.248.37 sqdd.myapp.com
+116.177.248.37 down.myapp.com
+116.177.248.37 rpcs.myapp.com
+116.177.248.37 dlied6.tcdn.qq.com
+116.177.248.37 soft.imtt.qq.com
+116.177.248.37 dlied6.qq.com
+
+121.51.167.27 down.qq.com
+121.51.167.27 wx.qq.com
+121.51.167.27 sportsapp.qq.com
+121.51.167.27 pay.qq.com
+121.51.167.27 omgmta.qq.com
+121.51.167.27 task.qq.com
+121.51.167.27 tiantang2.qq.com
+121.51.167.27 analy.qq.com
+121.51.167.27 masterconn.qq.com
+121.51.167.27 fusionbase.qq.com
+121.51.167.27 privacy.qq.com
+121.51.167.27 dlied4.myapp.tc.qq.com
+121.51.167.27 dlied4.myapp.com
+121.51.167.27 down.qq.com
+121.51.167.27 dlied1.tc.qq.com
+121.51.167.27 dlied5.myapp.com
+121.51.167.27 dlied1.tcdn.qq.com
+121.51.167.27 down-update.qq.com
+121.51.167.27 dlied1.qq.com
+121.51.167.27 resstatic.servicewechat.com
+121.51.167.27 update1.dlied.qq.com
+
+203.205.138.143 dlied1.tcdn.qq.com
+203.205.138.143 wmsj.qq.com
+203.205.138.143 wx.qq.com
+203.205.138.143 sportsapp.qq.com
+203.205.138.143 pay.qq.com
+203.205.138.143 omgmta.qq.com
+203.205.138.143 task.qq.com
+203.205.138.143 tiantang2.qq.com
+203.205.138.143 analy.qq.com
+203.205.138.143 masterconn.qq.com
+203.205.138.143 fusionbase.qq.com
+203.205.138.143 dlied1.tc.qq.com
+203.205.138.143 dlied1.qq.com
+203.205.138.143 dlied1.tcdn.qq.com
+203.205.138.143 dlied5.myapp.com
+203.205.138.143 update1.dlied.qq.com
+203.205.138.143 dlied4.myapp.com
+203.205.138.143 down.qq.com
+203.205.138.143 40cf02ec12f4da18ba89eccadaaf5912.dlied1.cdntips.com
+203.205.138.143 dlied4.myapp.tc.qq.com
+203.205.138.143 down-update.qq.com
+
+27.221.23.215 dlied2.tcdn.qq.com
+27.221.23.215 dlied2.qq.com
+27.221.23.215 dlied2.tcdn.qq.com
+27.221.23.215 dlied2.tc.qq.com
+27.221.23.215 yooye.link
+ 
+0.0.0.1 dlied3.tcdn.qq.com
+0.0.0.1 bbs.open.qq.com
+0.0.0.1 zb.v.qq.com
+0.0.0.1 config.qqmusic.qq.com
+0.0.0.1 ops.qq.com
+0.0.0.1 pvz.qq.com
+0.0.0.1 wind.qq.com
+0.0.0.1 msgbox.imtt.qq.com
+0.0.0.1 smtpbg270.qq.com
+0.0.0.1 dragon.qq.com
+0.0.0.1 smtpbg461.qq.com
+0.0.0.1 dlied3.tc.qq.com
+
+0.0.0.1 dlied4.tcdn.qq.com
+0.0.0.1 tgp.qq.com
+0.0.0.1 inews.qq.com
+0.0.0.1 zc.qq.com
+0.0.0.1 wmsj.qq.com
+0.0.0.1 wx.qq.com
+0.0.0.1 sportsapp.qq.com
+0.0.0.1 pay.qq.com
+0.0.0.1 omgmta.qq.com
+0.0.0.1 task.qq.com
+0.0.0.1 tiantang2.qq.com
+
+0.0.0.1 dlied4.tc.qq.com
+
+219.146.241.32 dlied5.tcdn.qq.com
+219.146.241.32 dlied5.tc.qq.com
+219.146.241.32 dlied5.tcdn.qq.com
+219.146.241.32 dlied5.tc.qq.com
+219.146.241.32 dlied5.qq.com
+219.146.241.32 wmsj.qq.com
+219.146.241.32 wx.qq.com
+219.146.241.32 sportsapp.qq.com
+219.146.241.32 pay.qq.com
+219.146.241.32 omgmta.qq.com
+219.146.241.32 task.qq.com
+219.146.241.32 tiantang2.qq.com
+219.146.241.32 analy.qq.com
+219.146.241.32 masterconn.qq.com
+219.146.241.32 fusionbase.qq.com
+
+111.206.15.27 dlied6.tcdn.qq.com
+111.206.15.27 zc.qq.com
+111.206.15.27 wmsj.qq.com
+111.206.15.27 wx.qq.com
+111.206.15.27 sportsapp.qq.com
+111.206.15.27 pay.qq.com
+111.206.15.27 omgmta.qq.com
+111.206.15.27 task.qq.com
+111.206.15.27 tiantang2.qq.com
+111.206.15.27 analy.qq.com
+111.206.15.27 masterconn.qq.com
+203.205.138.237 dlied6.tc.qq.com
+203.205.138.237 inews.qq.com
+203.205.138.237 zc.qq.com
+203.205.138.237 wmsj.qq.com
+203.205.138.237 wx.qq.com
+203.205.138.237 sportsapp.qq.com
+203.205.138.237 pay.qq.com
+203.205.138.237 omgmta.qq.com
+203.205.138.237 task.qq.com
+203.205.138.237 tiantang2.qq.com
+203.205.138.237 analy.qq.com
 
 127.0.0.1 23.15.4.9
 127.0.0.1 23.15.4.11
@@ -66,7 +301,6 @@
 127.0.0.1 203.205.128.0
 127.0.0.1 203.205.159.255
 
-127.0.0.1 google.com
 127.0.0.1 www.google.com
 127.0.0.1 file-igamecj.akamaized.net
 127.0.0.1 idcconfig.gcloud.qq.com
@@ -135,7 +369,7 @@
 127.0.0.1 filecdn.igamecj.com
 127.0.0.1 cloud.gsdk.proximabeta.com
 127.0.0.1 hkconfig.gcloud.qq.com
- 10.0.0.1 google.com
+10.0.0.1 google.com
 10.0.0.1 www.google.com
 10.0.0.1 file-igamecj.akamaized.net
 10.0.0.1 idcconfig.gcloud.qq.com
@@ -174,7 +408,7 @@
 10.0.0.1 hk.api.unipay.qq.com
 10.0.0.1 graph.facebook.co
 10.0.0.1 app.adjust.com
-410.0.0.1 49.51.42.152
+10.0.0.1 49.51.42.152
 10.0.0.1 idcconfig.gcloud.qq.com
 10.0.0.1 file-igamecj.akamaized.net
 10.0.0.1 file.igamecj.com 
@@ -205,7 +439,17 @@
 10.0.0.1 cloud.gsdk.proximabeta.com
 10.0.0.1 hkconfig.gcloud.qq.com
  
-46.0.0.1 google.com
+216.58.201.238 google.com 
+216.58.201.238 d-3288367366859564968.ampproject.net
+216.58.201.238 5ad2cdb49b461af48f0e061ad664d962.ru
+216.58.201.238 d-12563730302446336777.ampproject.net
+216.58.201.238 us-central1-zamdaa-mn.cloudfunctions.net
+216.58.201.238 fdh.page.link
+216.58.201.238 gsuite.google.com
+216.58.201.238 stats.picasa.com
+216.58.201.238 tomba.page.link
+216.58.201.238 d-164012877491445994.ampproject.net
+
 46.0.0.1 www.google.com
 46.0.0.1 file-igamecj.akamaized.net
 46.0.0.1 idcconfig.gcloud.qq.com
@@ -244,7 +488,7 @@
 46.0.0.1 hk.api.unipay.qq.com
 46.0.0.1 graph.facebook.co
 46.0.0.1 app.adjust.com
-446.0.0.1 49.51.42.152
+46.0.0.1 49.51.42.152
 46.0.0.1 idcconfig.gcloud.qq.com
 46.0.0.1 file-igamecj.akamaized.net
 46.0.0.1 file.igamecj.com 
@@ -274,10 +518,3 @@
 46.0.0.1 filecdn.igamecj.com
 46.0.0.1 cloud.gsdk.proximabeta.com
 46.0.0.1 hkconfig.gcloud.qq.com
- 
-
-
-
-
-
-
