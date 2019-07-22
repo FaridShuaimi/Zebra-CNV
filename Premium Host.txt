@@ -12,7 +12,7 @@
 127.0.0.1 mta.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com
 127.0.0.1 vmp.qq.com
-127.0.0.1 172.104.163.233
+127.0.0.1 111.221.45.20
 8.8.8.8 googledns
 127.0.0.1 down.qq.com 
 127.0.0.1 dlied1.qq.com
@@ -24,8 +24,7 @@
 127.0.0.1 pingmid.qq.com
 127.0.0.1 mta.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 vmp.qq.com
-127.0.0.1 172.104.163.233
+127.0.0.1 vmp.qq.com
 102.54.94.98      localsrv   
 102.54.94.97      trey  
 127.0.0.1 idcconfig.gcloud.qq.com
@@ -42,6 +41,7 @@
 1270.0.01 182.254.116.117 
 127.0.0.1 dlied1.qq.com
 210.129.120.41    pixiv.net
+127.0.0.1 111.221.45.20
 210.129.120.43    www.pixiv.net
 210.129.120.43    touch.pixiv.net
 210.140.131.145    source.pixiv.net
