@@ -12,8 +12,8 @@
 127.0.0.1 mta.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com
 127.0.0.1 vmp.qq.com
-127.0.0.1 195.123.237.75
-8.8.8.8 googledns
+127.0.0.1 123.136.115.217
+1.1.1.1 cloudflare
 127.0.0.1 down.qq.com 
 127.0.0.1 dlied1.qq.com
 127.0.0.1 dlied1.tcdn.qq.com 
