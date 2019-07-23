@@ -12,7 +12,7 @@
 127.0.0.1 mta.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com
 127.0.0.1 vmp.qq.com
-127.0.0.1 123.136.115.217
+127.0.0.1 123.136.115.200
 1.1.1.1 cloudflare
 127.0.0.1 down.qq.com 
 127.0.0.1 dlied1.qq.com
@@ -24,7 +24,8 @@
 127.0.0.1 pingmid.qq.com
 127.0.0.1 mta.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 vmp.qq.com
+127.0.0.1 vmp.qq.com
+
 102.54.94.98      localsrv   
 102.54.94.97      trey  
 127.0.0.1 idcconfig.gcloud.qq.com
@@ -38,7 +39,7 @@
 127.0.0.1 q.qlogo.cn
 127.0.0.1 sq59.pg.qq.com 
 127.0.0.1 sqlobby.pg.qq.com
-1270.0.01 182.254.116.117 
+1270.0.01 123.136.115.200 
 127.0.0.1 dlied1.qq.com
 210.129.120.41    pixiv.net
 127.0.0.1 195.123.237.75
