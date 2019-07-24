@@ -1,3 +1,5 @@
+127.0.0.1       localhost
+::1             ip6-localhost
 172.217.212.94 ssl.gstatic.com
 172.217.212.94 encrypted-tbn1.gstatic.com
 172.217.212.94 connectivitycheck.gstatic.com
@@ -306,4 +308,4 @@
 108.177.111.113 gg.google.com
 108.177.111.113 appspot.l.google.com
 108.177.111.113 corp.google.com
-127.0.0.1 195.123.237.75
+127.0.0.1 22.16.202.165
