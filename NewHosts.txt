@@ -1250,8 +1250,7 @@
 127.0.0.1 file.igamecj.com
 127.0.0.1 119.28.244.5088
 127.0.0.1 cs.mbgame.gamesafe.qq.com
-127.0.0.1 119.28.244.5086
-127.0.0.1 down.qq.com
+127.0.0.1 119.28.244.5086 
 127.0.0.1 intldlgs.qq.com
 127.0.0.1 vmp.qq.com
 127.0.0.1 filecdn.igamecj.com
@@ -1304,8 +1303,7 @@
 127.0.0.1 file.igamecj.com
 127.0.0.1 119.28.244.50
 127.0.0.1 cs.mbgame.gamesafe.qq.com
-127.0.0.1 119.28.244.5086
-127.0.0.1 down.qq.com
+127.0.0.1 119.28.244.5086 
 127.0.0.1 intldlgs.qq.com 
 127.0.0.1 vmp.qq.com
 127.0.0.1 filecdn.igamecj.com
@@ -1319,8 +1317,7 @@
 10.0.0.1 file.igamecj.com
 10.0.0.1 119.28.244.5088
 10.0.0.1 cs.mbgame.gamesafe.qq.com
-10.0.0.1 119.28.244.5086
-10.0.0.1 down.qq.com
+10.0.0.1 119.28.244.5086 
 10.0.0.1 intldlgs.qq.com
 10.0.0.1 vmp.qq.com
 10.0.0.1 filecdn.igamecj.com
@@ -1374,7 +1371,6 @@
 10.0.0.1 119.28.244.50
 10.0.0.1 cs.mbgame.gamesafe.qq.com
 10.0.0.1 119.28.244.5086
-10.0.0.1 down.qq.com
 10.0.0.1 intldlgs.qq.com 
 10.0.0.1 vmp.qq.com
 10.0.0.1 filecdn.igamecj.com
@@ -1399,8 +1395,7 @@
 46.0.0.1 file.igamecj.com
 46.0.0.1 119.28.244.5088
 46.0.0.1 cs.mbgame.gamesafe.qq.com
-46.0.0.1 119.28.244.5086
-46.0.0.1 down.qq.com
+46.0.0.1 119.28.244.5086 
 46.0.0.1 intldlgs.qq.com
 46.0.0.1 vmp.qq.com
 46.0.0.1 filecdn.igamecj.com
@@ -1453,8 +1448,7 @@
 46.0.0.1 file.igamecj.com
 46.0.0.1 119.28.244.50
 46.0.0.1 cs.mbgame.gamesafe.qq.com
-46.0.0.1 119.28.244.5086
-46.0.0.1 down.qq.com
+46.0.0.1 119.28.244.5086 
 46.0.0.1 intldlgs.qq.com 
 46.0.0.1 vmp.qq.com
 46.0.0.1 filecdn.igamecj.com
