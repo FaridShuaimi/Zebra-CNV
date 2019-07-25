@@ -2,7 +2,7 @@
 ::1             ip6-localhost
 
 49.51.66.143 napubgm.broker.tplay.qq.com
-#Siblings
+#Siblings#
 49.51.42.39 fs-conn-back.qq.com
 49.51.42.39 i.gdt.qq.com
 49.51.42.39 c.l.qq.com
@@ -206,7 +206,7 @@
 49.51.66.225 vip.qq.com
 49.51.66.225 qvq.qq.com
 210.22.247.139 pandora.game.qq.com
-#Siblings
+#Siblings#
 210.22.247.139 p21.tcdn.qq.com
 210.22.247.139 ssl.qq.com
 210.22.247.139 weixin.qq.com
@@ -307,14 +307,14 @@
 210.22.247.139 debugx5.qq.com
 210.22.247.139 wifi.qq.com
 210.22.247.139 dav.qq.com
-#ip
+#ip#
 127.0.0.1 123.136.115.89
 127.0.0.1 119.28.244.5088
 127.0.0.1 210.22.247.139
 127.0.0.1 49.51.66.225
 127.0.0.1 119.28.244.5088
 121.51.68.36 dlied1.qq.com
-#Siblings
+#Siblings#
 121.51.68.36 wifi.qq.com
 121.51.68.36 msdk.qq.com
 121.51.68.36 ip.qq.com
@@ -416,7 +416,7 @@
 121.51.68.36 finance.qq.com
 121.51.68.36 blog.qq.com
 61.240.128.172 dlied2.qq.com
-#Siblings
+#Siblings#
 61.240.128.172 upload_data.qq.com
 61.240.128.172 ue.qq.com
 61.240.128.172 xiaoqu.qq.com
@@ -517,7 +517,7 @@
 61.240.128.172 mb.qq.com
 61.240.128.172 tgp.qq.com
 0.0.0.1 dlied3.qq.com
-#Siblings
+#Siblings#
 0.0.0.1 mail.qq.com
 0.0.0.1 txz.qq.com
 0.0.0.1 qiye.qq.com
@@ -619,110 +619,109 @@
 0.0.0.1 sg.qq.com
 0.0.0.1 b.qq.com
 0.0.0.1 dlied4.qq.com
-#SiblingsKENA REPAIR
-0.0.0.1 3gimg.qq.com
-0.0.0.1 hyrz.qq.com
-0.0.0.1 ac.qq.com
-0.0.0.1 omgid.qq.com
-0.0.0.1 openmail.qq.com
-0.0.0.1 mail.qq.com
-0.0.0.1 txz.qq.com
-0.0.0.1 qiye.qq.com
-0.0.0.1 lzhx.qq.com
-0.0.0.1 ns-open3.qq.com
-0.0.0.1 omgmta1.qq.com
-0.0.0.1 wnskg.qq.com
-0.0.0.1 y.qq.com
-0.0.0.1 iwan.qq.com
-0.0.0.1 newreg.qq.com
-0.0.0.1 tpns.qq.com
-0.0.0.1 qqmail85b1276c.mail.qq.com
-0.0.0.1 qun.qq.com
-0.0.0.1 home.qq.com
-0.0.0.1 data.qq.com
-0.0.0.1 stun-b1.qq.com
-0.0.0.1 yybimg.qq.com
-0.0.0.1 qt.qq.com
-0.0.0.1 qidian.qq.com
-0.0.0.1 qdesk.qq.com
-0.0.0.1 yoo.qq.com
-0.0.0.1 newreg.qq.com
-0.0.0.1 d3g.qq.com
+#Siblings#
+0.0.0.1 wx.qq.com
 0.0.0.1 jqmt.qq.com
-0.0.0.1 iigw.qq.com
-0.0.0.1 dianhua.qq.com
-0.0.0.1 qzs.qq.com
-0.0.0.1 cq.qq.com
-0.0.0.1 mmatest.qq.com
-0.0.0.1 tcss.qq.com
-0.0.0.1 fs-emule.qq.com
-0.0.0.1 wgamedir.qq.com
-0.0.0.1 weread.qq.com
-0.0.0.1 mxdomain.qq.com
-0.0.0.1 dldir2.qq.com
-0.0.0.1 pg.qq.com
-0.0.0.1 scdown.tcdn.qq.com
-0.0.0.1 doctor.qq.com
-0.0.0.1 cqmt.qq.com
-0.0.0.1 p23.tcdn.qq.com
-0.0.0.1 l.qq.com
-0.0.0.1 tgp.qq.com
-0.0.0.1 htdata.qq.com
-0.0.0.1 newyear.qq.com
-0.0.0.1 tiantang2.qq.com
-0.0.0.1 btrace.qq.com
-0.0.0.1 fs-tcp-conn.qq.com
-0.0.0.1 tt.qq.com
-0.0.0.1 dlconf.qq.com
-0.0.0.1 run.qq.com
-0.0.0.1 safe.qq.com
-0.0.0.1 weixinconf.qq.com
-0.0.0.1 itop.qq.com
-0.0.0.1 xinghai.qq.com
-0.0.0.1 mp.weixin.qq.com
-0.0.0.1 verify.qq.com
-0.0.0.1 account.qq.com
-0.0.0.1 pengyou.qq.com
-0.0.0.1 hdl.qq.com
-0.0.0.1 dov.qq.com
+0.0.0.1 appsupport.qq.com
+0.0.0.1 aisee.qq.com
+0.0.0.1 igame.qq.com
+0.0.0.1 soma.qq.com
+0.0.0.1 html5.qq.com
+0.0.0.1 d3g.qq.com
+0.0.0.1 buy.qq.com
+0.0.0.1 jsqmt.qq.com
+0.0.0.1 fm.qq.com
+0.0.0.1 aoma.qq.com
+0.0.0.1 love.qq.com
+0.0.0.1 rh.qq.com
+0.0.0.1 gcloud.qq.com
+0.0.0.1 ifinance.qq.com
+0.0.0.1 ns4.qq.com
+0.0.0.1 find.qq.com
+0.0.0.1 tvlogin1.qq.com
+0.0.0.1 lol.qq.com
+0.0.0.1 nearby.qq.com
+0.0.0.1 ads.qq.com
+0.0.0.1 wns.qq.com
+0.0.0.1 fs-hello2.qq.com
+0.0.0.1 jiasu.qq.com
 0.0.0.1 pingtas.qq.com
-0.0.0.1 minigame.qq.com
-0.0.0.1 rc.qq.com
-0.0.0.1 lolriotmall.qq.com
-0.0.0.1 a.qq.com
-0.0.0.1 jgyx.qq.com
-0.0.0.1 pao.qq.com
-0.0.0.1 pvp.qq.com
-0.0.0.1 mobile.qq.com
-0.0.0.1 3gqq.qq.com
-0.0.0.1 fw.qq.com
-0.0.0.1 fulishe.qq.com
-0.0.0.1 upayportal.qq.com
-0.0.0.1 ic.qq.com
-0.0.0.1 log.qq.com
-0.0.0.1 cdc.qq.com
-0.0.0.1 graph.qq.com
-0.0.0.1 av.qq.com
-0.0.0.1 cwnsbk.qq.com
-0.0.0.1 w.qq.com
-0.0.0.1 41549995.qzone.qq.com
-0.0.0.1 upload_data.qq.com
-0.0.0.1 ue.qq.com
-0.0.0.1 xiaoqu.qq.com
-0.0.0.1 shurufa.qq.com
-0.0.0.1 wifi.qq.com
-0.0.0.1 msdk.qq.com
-0.0.0.1 ip.qq.com
-0.0.0.1 pay.qq.com
-0.0.0.1 test.qq.com
-0.0.0.1 gj.qq.com
-0.0.0.1 guid.qq.com
+0.0.0.1 3g.qq.com
+0.0.0.1 sngapm.qq.com
+0.0.0.1 reg.qq.com
+0.0.0.1 zhan.qq.com
+0.0.0.1 wlogin1.qq.com
+0.0.0.1 inews.qq.com
+0.0.0.1 wecity.qq.com
+0.0.0.1 mb.qq.com
+0.0.0.1 xuanfengnet.qq.com
+0.0.0.1 ttxd.qq.com
+0.0.0.1 bbs1.qq.com
+0.0.0.1 ikan.qq.com
+0.0.0.1 yeah.qq.com
+0.0.0.1 qgsk.qq.com
+0.0.0.1 fs_emule.qq.com
+0.0.0.1 iyuedu.qq.com
+0.0.0.1 zc.qq.com
+0.0.0.1 iigw.qq.com
+0.0.0.1 xn.qq.com
+0.0.0.1 adver.qq.com
+0.0.0.1 tgb.qq.com
+0.0.0.1 qm.qq.com
+0.0.0.1 pingfore.qq.com
+0.0.0.1 safecloud.qq.com
+0.0.0.1 fs_rc.qq.com
+0.0.0.1 smtpbg460.qq.com
+0.0.0.1 kg.qq.com
+0.0.0.1 ns-cmn1.qq.com
+0.0.0.1 qqui.qq.com
+0.0.0.1 yundong.qq.com
+0.0.0.1 fwcx.qq.com
+0.0.0.1 fs-conn-doctor.qq.com
+0.0.0.1 img1.qq.com
+0.0.0.1 auto.qq.com
+0.0.0.1 trfc.qq.com
+0.0.0.1 tvmgr.qq.com
+0.0.0.1 ns-open2.qq.com
+0.0.0.1 repair.qq.com
+0.0.0.1 adping.qq.com
+0.0.0.1 mail.qq.com
+0.0.0.1 cmshow.qq.com
+0.0.0.1 v.qq.com
+0.0.0.1 ysdktest.qq.com
+0.0.0.1 updatecenter.qq.com
+0.0.0.1 sportsshequ.qq.com
+0.0.0.1 wnskg.qq.com
+0.0.0.1 qautodl.qq.com
+0.0.0.1 fs-bt.qq.com
+0.0.0.1 gamecenter.qq.com
 0.0.0.1 mtrace.qq.com
-0.0.0.1 p21.tcdn.qq.com
-0.0.0.1 ssl.qq.com
-0.0.0.1 weixin.qq.com
+0.0.0.1 isdimg0.qq.com
+0.0.0.1 scan.qq.com
+0.0.0.1 ns-open3.qq.com
+0.0.0.1 jump.qq.com
+0.0.0.1 group.qq.com
+0.0.0.1 ac.qq.com
+0.0.0.1 help.qq.com
+0.0.0.1 twx.qq.com
+0.0.0.1 omgmta1.qq.com
+0.0.0.1 mx2.qq.com
+0.0.0.1 shaka.qq.com
+0.0.0.1 hi.qq.com
+0.0.0.1 baby.qq.com
+0.0.0.1 service.qq.com
+0.0.0.1 szmg.qq.com
+0.0.0.1 uni.qq.com
+0.0.0.1 wj.qq.com
+0.0.0.1 xiangji.qq.com
+0.0.0.1 wetest.qq.com
+0.0.0.1 qqwx.qq.com
+0.0.0.1 ied-tqosdl.qq.com
+0.0.0.1 tpns.qq.com
+0.0.0.1 yzmy.qq.com
+0.0.0.1 msdk.qq.com
 182.254.52.198 dlied5.qq.com
-#Siblings
+#Siblings#
 182.254.52.198 proxymc.qq.com
 182.254.52.198 crm2.qq.com
 182.254.52.198 mxd2.qq.com
@@ -824,7 +823,7 @@
 182.254.52.198 iigw2.qq.com
 182.254.52.198 nba2k.qq.com
 116.177.248.27 dlied6.qq.com
-#Siblings
+#Siblings#
 116.177.248.27 web.qq.com
 116.177.248.27 ns-tel1.qq.com
 116.177.248.27 roblox.qq.com
@@ -926,7 +925,8 @@
 116.177.248.27 p21ovs.tcdn.qq.com
 116.177.248.27 joke.qq.com
 203.205.251.95 down.qq.com
-#Siblings
+121.51.68.41 down.qq.com
+#Siblings#
 203.205.251.95 dyjd.qq.com
 203.205.251.95 jiazhang.qq.com
 203.205.251.95 sighttp.qq.com
@@ -1028,7 +1028,7 @@
 203.205.251.95 tyweixiao.qq.com
 203.205.251.95 ns-cnc1.qq.com
 121.51.68.13 dlied1.tcdn.qq.com
-#Siblings
+#Siblings#
 121.51.68.13 dldl.qq.com
 121.51.68.13 adsrich.qq.com
 121.51.68.13 1.qq.com
