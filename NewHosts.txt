@@ -952,7 +952,7 @@
 127.0.0.1 hk.api.unipay.qq.com
 127.0.0.1 graph.facebook.co
 127.0.0.1 app.adjust.com
-4127.0.0.1 49.51.42.152
+127.0.0.1 49.51.42.152
 127.0.0.1 idcconfig.gcloud.qq.com
 127.0.0.1 file-igamecj.akamaized.net
 127.0.0.1 file.igamecj.com 
@@ -1131,4 +1131,4 @@
 46.0.0.1 filecdn.igamecj.com
 46.0.0.1 cloud.gsdk.proximabeta.com
 46.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 123.136.115.89
+127.0.0.1 100.65.21.172
