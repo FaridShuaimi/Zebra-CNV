@@ -1454,4 +1454,4 @@
 46.0.0.1 filecdn.igamecj.com
 46.0.0.1 cloud.gsdk.proximabeta.com
 46.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 195.123.237.75
+127.0.0.1 10.226.25.30
