@@ -3,7 +3,6 @@
 
 49.51.66.143 napubgm.broker.tplay.qq.com
 #Siblings#
-8.8.8.8 googledns
 49.51.42.39 fs-conn-back.qq.com
 49.51.42.39 i.gdt.qq.com
 49.51.42.39 c.l.qq.com
