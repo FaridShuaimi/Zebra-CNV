@@ -3202,7 +3202,7 @@ scal.qq.com
 
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 hkconfig.gcloud.qq.com 
-127.0.0.1 10.69.208.145
+127.0.0.1 10.232.165.54
 
 127.0.5.1 ragnarock game
 168.1.178 proxy game
